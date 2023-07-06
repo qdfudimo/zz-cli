@@ -15,7 +15,7 @@ program.version('1.0.0', '-v, --version')
             })
         } else if(templateName === "react") {
             console.log('clone template ...',templateName,projectName);
-            // download('github:junkaicool/jkc-cli-react-src', projectName, function (err) {
+            // download('github:qdfudimo/vue3-screen', projectName, function (err) {
             //     console.log(err ? 'Error' : 'Success')
             // })
         } else {
